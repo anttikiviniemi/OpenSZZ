@@ -176,7 +176,6 @@ public class JiraRetriever {
 			String resolution = "";
 			String status = "";
 			String assignee = "";
-			String commentsString = "";
 			String type = "";
 			long createdDateEpoch = 0;
 			long resolvedDateEpoch = 0;
